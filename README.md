@@ -1,8 +1,9 @@
-# UNAIMI_Tech #
+# UNAIMI_Tech 
 
 About MeHello! I’m Omphemetse Nkge, known by my alias Sunset or UnaimiTech. 
 I am passionate about leveraging technology to address significant challenges in my community.
 My mission is to contribute to solutions that can make a real difference in society.
+
 -------------------------------------------------------------------------------------------------------------
 Skills:
 ---------
@@ -17,8 +18,8 @@ Cybersecurity:
   Forensics
   Reverse Engineering
 ----------------------------------------------------------------------------------------------------------------  
-# Project Overview: #
-------------------
+Project Overview: 
+
 I am currently working on a project aimed at tackling some of the major problems faced by my community.
 My goal is to develop effective solutions that can help reduce these issues as much as possible.
 Get in TouchFeel free to connect with me through my social media accounts:
